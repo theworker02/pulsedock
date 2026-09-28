@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/pulsedock",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pulse and reshape dock text streams with deterministic transforms.",
+  "bin": {
+    "pulsedock": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/pulsedock.git"
+  },
+  "homepage": "https://theworker02.github.io/pulsedock/",
+  "keywords": [
+    "pulse",
+    "dock",
+    "text",
+    "cli",
+    "toolkit"
+  ]
+}
